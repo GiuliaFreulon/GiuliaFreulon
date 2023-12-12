@@ -9,3 +9,13 @@
 </div><br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiuliaFreulon&layout=donut-vertical)
+
+
+### Contato 📧
+
+<div style="display: inline_block"><br/>
+	<a
+	href="mailto:giuliaaraujof@hotmail.com" target="_blank">
+	<img src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
+	</a>
+</div><br/>
