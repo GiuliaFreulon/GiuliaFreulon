@@ -18,7 +18,7 @@
 	href="mailto:giuliaaraujof@hotmail.com" target="_blank">
 	<img src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
 	</a>
-	<a href="www.linkedin.com/in/giulia-freulon-8a01752a5" target="_blank">
+	<a href="https://www.linkedin.com/in/giulia-freulon-8a01752a5" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge">
     	</a>
 </div><br/>
