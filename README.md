@@ -29,8 +29,7 @@ My repositories are not just a collection of code, they're well-documented journ
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuliaFreulon&layout=donut-vertical" alt="Top Langs">
 </div>
 
-### Contact 📧
-
+### 📧 Contact
 <div style="display: inline-block; margin-top: 10px;">
     <a href="mailto:giuliaaraujof@hotmail.com" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
