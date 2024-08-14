@@ -31,13 +31,11 @@ My repositories are not just a collection of code, they're well-documented journ
 
 ### Contact 📧
 
-<div style="display: inline_block"><br/>
-	<a
-	href="mailto:giuliaaraujof@hotmail.com" target="_blank">
-	<img src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
-	</a>
-	<a 
-	href="https://www.linkedin.com/in/giulia-freulon-8a01752a5" target="_blank">
+<div style="display: inline-block; margin-top: 10px;">
+    <a href="mailto:giuliaaraujof@hotmail.com" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
+    </a>
+    <a href="https://www.linkedin.com/in/giulia-freulon-8a01752a5" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge">
-    	</a>
+    </a>
 </div><br/>
