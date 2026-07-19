@@ -1,40 +1,68 @@
-# 🤠 Giulia Freulon
+# 👩‍💻 Giulia Freulon
 
-**`Developer`**
+**AI Software Developer | Backend | Automation**
 
-I'm a Computer Science student at UFMA. 
-Whether it's diving deep into machine learning algorithms or building sleek front-end interfaces, I love turning ideas into code.
-My repositories are not just a collection of code, they're well-documented journeys into my learning and experimentation. Whether you're a fellow developer or just curious, feel free to browse through. Who knows? You might find something that sparks your interest!
+I'm a Software Developer specializing in Artificial Intelligence, backend development, and process automation.
 
-### ⚙ Languages and Tools
+Currently, I design and build AI-powered solutions using Large Language Models (LLMs), AI Agents, LangGraph, and n8n. My work involves developing conversational agents, automating business processes, integrating enterprise systems through APIs, and building scalable backend services.
 
-<div align="center">
-<img alt="Python" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="C" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="HTML5" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="CSS3" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="VSCode" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="TensorFlow" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Keras" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
+I'm passionate about solving real-world problems with AI while applying solid software engineering principles. Most of my repositories showcase experiments, automation workflows, backend applications, and AI-related projects.
 
-<br>
+---
+
+## 🚀 Tech Stack
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuliaFreulon&layout=donut-vertical" alt="Top Langs">
+
+<img alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>&nbsp;&nbsp;
+<img alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>&nbsp;&nbsp;
+<img alt="TypeScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>&nbsp;&nbsp;
+<img alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>&nbsp;&nbsp;
+<img alt="NodeJS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>&nbsp;&nbsp;
+<img alt="Docker" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>&nbsp;&nbsp;
+<img alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>&nbsp;&nbsp;
+<img alt="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>&nbsp;&nbsp;
+<img alt="Google Cloud" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>&nbsp;&nbsp;
+<img alt="AWS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>&nbsp;&nbsp;
+<img alt="PostgreSQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>&nbsp;&nbsp;
+<img alt="MongoDB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+
 </div>
 
-### 📧 Contact
-<div style="display: inline-block; margin-top: 10px;">
-    <a href="mailto:giuliaaraujof@hotmail.com" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
-    </a>
-    <a href="https://www.linkedin.com/in/giulia-freulon-8a01752a5" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge">
-    </a>
-</div><br/>
+---
+
+## 🤖 Currently Working With
+
+- 🧠 Artificial Intelligence & LLMs
+- 🤖 AI Agents & Multi-Agent Systems
+- 🔗 LangGraph
+- ⚙️ n8n Automation
+- 🌐 REST APIs & Enterprise Integrations
+- 💬 Conversational AI (WhatsApp & Microsoft Teams)
+- ☁️ Google Cloud Platform (GCP)
+- 🐳 Docker
+- 🗄️ SQL & NoSQL Databases
+
+---
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=GiuliaFreulon&theme=dracula&hide_border=true"/>
+
+</div>
+
+---
+
+## 📫 Connect with me
+
+<div align="center">
+
+<a href="mailto:giuliaaraujof@hotmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/giulia-freulon-8a01752a5">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
